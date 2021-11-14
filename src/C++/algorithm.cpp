@@ -1,6 +1,3 @@
-#include <vector>
-#include <iostream>
-
 #include "dataframe.h"
 
 int FindKthLargestFastSorting::quickSelect(std::vector<int> &a, int l, int r, int index) {

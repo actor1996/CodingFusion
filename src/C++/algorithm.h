@@ -3,6 +3,9 @@
 //
 #pragma once
 
+#include <vector>
+#include <iostream>
+
 //#ifndef CODING_DATAFRAME_H
 //#define CODING_DATAFRAME_H
 

@@ -175,9 +175,9 @@ class KthSmallestDichotomousSearch(KthSmallest):
 
 
 def test():
-    # Dataframe29PriorityQueue().test()
-    # Dataframe29OrderedSetsAndDoublePointers().test()
-    Dataframe30DichotomousSearch().test()
+    # MedianFinderPriorityQueue().test()
+    # MedianFinderOrderedSetsAndDoublePointers().test()
+    KthSmallestDichotomousSearch().test()
 
 if __name__ == '__main__':
     test()
